@@ -12,7 +12,7 @@ class DetailPage extends StatelessWidget {
 
     // Teks panjang yang disesuaikan sedikit berdasarkan nama item
     String detailTeks;
-//restart
+
     if (nama.contains("Kelingking")) {
       detailTeks = "Pantai ini terkenal karena tebingnya yang ikonik, menyerupai bentuk kepala Dinosaurus T-Rex, yang membuatnya sangat populer di media sosial. Selain pemandangan tebing yang menakjubkan dari atas, pengunjung juga bisa mencoba menuruni anak tangga ekstrem untuk mencapai pantai berpasir putih di bawahnya. Perjalanan menuruni tebing cukup menantang namun akan terbayar dengan air laut biru jernih yang memukau. Kelingking Beach adalah bukti nyata keindahan alam Nusa Penida, Bali.";
     } else if (nama.contains("Bromo")) {
